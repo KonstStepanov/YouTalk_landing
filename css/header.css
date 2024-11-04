@@ -1,0 +1,121 @@
+.header__nav {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 75px;
+  min-width: 1440px;
+  width: 100%;
+  height: 100%;
+  /* display: none; */
+}
+
+.header__logo {
+  width: 51px;
+  height: 36px;
+  margin: 20px 51px 20px 120px;
+}
+
+.header__list {
+  padding: 0;
+  margin-right: 162px;
+  list-style: none;
+  gap: 30px;
+  display: flex;
+  min-height: 16px;
+  min-width: 720px;
+  max-width: 720px;
+  height: 100%;
+  width: 100%;
+}
+
+.font__black {
+  font-family: "Montserrat", sans-serif;
+  color: #333333;
+}
+
+.header__link {
+  cursor: pointer;
+  font-size: 14px;
+  letter-spacing: 0.25px;
+  line-height: 114%;
+  text-decoration: none;
+}
+
+.header__link_arrow {
+  margin: 2px 0 0 8px;
+}
+
+.header__button {
+  margin: 14px 110px 14px 0;
+  padding: 14px 20px 14px 20px;
+  background-color: #e3f5f5;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #03b2a5;
+  cursor: pointer;
+  border-radius: 4px;
+  border-width: 0;
+  min-width: 230px;
+  max-width: 230px;
+  min-height: 48px;
+  width: 100%;
+  height: 100%;
+}
+
+.header__line {
+  height: 1px;
+  min-width: 1px;
+  min-width: 1440px;
+  width: 100%;
+  background-color: #eff5fb;
+}
+
+.header__mobile {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 75px;
+  min-width: 768px;
+  max-width: 768px;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+
+.header__mobile_logo {
+  width: 51px;
+  height: 36px;
+  margin: 20px 0 20px 20px;
+}
+
+.header__mobile_burger {
+  cursor: pointer;
+  padding: 0;
+  margin: 18px 20px 18px 637px;
+  width: 40px;
+  height: 40px;
+  border-width: 0;
+}
+
+.header__mobile_list {
+  display: none;
+  background-color: #fcfcfc;
+  margin: 0;
+  margin-left: 648px;
+  padding: 5px 0 5px 0;
+  list-style: none;
+  max-width: 120px;
+}
+
+.header__mobile_link {
+  cursor: pointer;
+  width: 120px;
+  padding-bottom: 5px;
+  font-size: 14px;
+  letter-spacing: 0.25px;
+  line-height: 114%;
+  text-decoration: none;
+}
