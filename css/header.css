@@ -42,7 +42,7 @@
   text-decoration: none;
 }
 
-.header__link_arrow {
+.header__link-arrow {
   margin: 2px 0 0 8px;
 }
 
@@ -110,7 +110,7 @@
   max-width: 120px;
 }
 
-.header__mobile_link {
+.header__mobile-link {
   cursor: pointer;
   width: 120px;
   padding-bottom: 5px;
