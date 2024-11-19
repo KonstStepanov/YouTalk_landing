@@ -15,7 +15,7 @@
   min-width: 1440px;
   max-width: 1440px;
   min-height: 5300px;
-  background-image: url("/images/hero_background_1.svg");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/hero_background_1.svg");
   background-repeat: no-repeat, repeat;
   background-position: left top 5216px;
 }
@@ -45,7 +45,7 @@
   max-height: 4700px;
   width: 100%;
   height: 100%;
-  background-image: url("/images/article_background_1.svg");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/article_background_1.svg");
   background-repeat: no-repeat, repeat;
   background-position: left 1222px top 2404px;
 }
@@ -110,7 +110,7 @@
 .article-landing__art1_item-quote {
   width: 642px;
   height: 36px;
-  background-image: url("/images/article_background_3.svg");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/article_background_3.svg");
   background-repeat: no-repeat, repeat;
 }
 
@@ -167,7 +167,7 @@
 .article-landing__backgr-img {
   width: 691px;
   height: 168px;
-  background-image: url("/images/article_background_4.svg");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/article_background_4.svg");
   background-repeat: no-repeat, repeat;
   background-position: left 225.5px top 0;
 }
@@ -345,7 +345,7 @@
   width: 250px;
   height: 144px;
   margin: 16px 16px 16px 16px;
-  background-image: url("/images/aside_image_2.png");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/aside_image_2.png");
   background-repeat: no-repeat, repeat;
   background-position: left 65px top 24px;
 }
@@ -441,7 +441,7 @@
 .article-landing__aside_li_stl {
   margin: 8px 0 0 0;
   padding-right: 8px;
-  list-style-image: url("/images/aside_image_5.svg");
+  list-style-image: url("https://konststepanov.github.io/YouTalk_landing/images/aside_image_5.svg");
 }
 
 .article-landing__aside_li_items_item {
@@ -461,7 +461,7 @@
   width: 282px;
   height: 292px;
   margin-bottom: 42px;
-  background-image: url("/images/aside_image_3.png");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/aside_image_3.png");
   background-repeat: no-repeat, repeat;
 }
 
@@ -485,7 +485,7 @@
   border-radius: 16px;
   width: 282px;
   height: 304px;
-  background-image: url("/images/aside_image_4.png");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/aside_image_4.png");
   background-repeat: no-repeat, repeat;
   background-position: left 10px top 32px;
   background-color: #ffffff;
@@ -567,7 +567,7 @@
   min-height: 425px;
   width: 100%;
   height: 100%;
-  background-image: url("/images/article_background_2.svg");
+  background-image: url("https://konststepanov.github.io/YouTalk_landing/images/article_background_2.svg");
   background-repeat: no-repeat, repeat;
   background-position: left 1367px top 72px;
 }
@@ -748,11 +748,11 @@
   }
 
   .article_img1 {
-    content: url("/images/article_image_1_414px.png");
+    content: url("https://konststepanov.github.io/YouTalk_landing/images/article_image_1_414px.png");
   }
 
   .article_img2 {
-    content: url("/images/article_image_2_414px.png");
+    content: url("https://konststepanov.github.io/YouTalk_landing/images/article_image_2_414px.png");
   }
 
   .article-landing__art1_quote-container {
